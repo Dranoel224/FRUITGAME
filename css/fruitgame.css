@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+#container {
+    height: 500px;
+    width: 450px;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+#fruitsout {
+    margin-top: 10px;
+    font-size: xx-large;
+}
+
+#container input {
+    margin: 5px;
+}
+
+input button {
+    margin: 50px;
+}
+
+#fruitsout {
+    margin: 10px;
+}
